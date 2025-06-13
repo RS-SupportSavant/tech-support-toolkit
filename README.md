@@ -1,14 +1,22 @@
-# Tech Support Troubleshooter Toolkit
+# Tech Support Engineer Portfolio Project
 
-This project is a beginner-friendly toolkit for technical support troubleshooting. It includes:
+This is a beginner-friendly portfolio project built to showcase real-world technical support skills. It includes:
 
-- Simple scripts to check system health (Windows & Linux)
-- Sample support tickets with step-by-step resolutions
-- Knowledge base-style guides
+- ✅ A Linux system health check script
+- ✅ A sample customer support ticket
+- ✅ A knowledge base troubleshooting guide for Windows
 
-Created to showcase core support skills: problem-solving, scripting, and clear documentation.
+## 📁 Project Structure:
+- `scripts/` - Bash scripts for automated health checks
+- `tickets/` - Example support ticket with problem-solving steps
+- `kb-guides/` - Troubleshooting documentation (Markdown)
 
-## Contents
-- `scripts/` - diagnostic tools
-- `tickets/` - simulated user issues and solutions
-- `kb-guides/` - troubleshooting documentation
+## 🔧 Tools & Skills Demonstrated:
+- Bash scripting
+- Windows network troubleshooting
+- Ticket documentation
+- Markdown documentation
+- Git & GitHub
+
+## 🎯 Goal:
+To demonstrate readiness for an entry-level Technical Support Engineer role and show practical problem-solving skills to employers.
